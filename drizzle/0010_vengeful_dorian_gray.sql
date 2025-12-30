@@ -1,1 +1,0 @@
-ALTER TABLE "chunks" ADD COLUMN "situating_context" text;
